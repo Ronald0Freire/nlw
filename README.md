@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://ronald0freire.github.io/nlw-esports-explorer)
+[🔗 Clique aqui para acessar](https://Ronald0freire.github.io/nlw-esports-explorer)
 
 ## 🧐 Tecnologias
 
